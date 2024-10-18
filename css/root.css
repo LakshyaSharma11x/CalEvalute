@@ -1,0 +1,17 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+    
+}
+
+
+:root{
+    --background-color: black;
+    --border-color: black;
+}
+
+@font-face {
+    font-family: fz;
+    src: url(/font/font.TTF);
+}
