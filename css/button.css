@@ -16,8 +16,8 @@
 }
 
 .common-button:hover{
-    background-color: var(--invert-button-color);
-    color: var(--invert-button-color-text);
+    background-color: var(--invert-button-color-text);
+    color: var(--invert-button-color);
 }
 
 .ans-button{
