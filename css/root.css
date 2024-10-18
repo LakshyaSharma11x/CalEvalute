@@ -2,16 +2,22 @@
     padding: 0px;
     margin: 0px;
     box-sizing: border-box;
-    
 }
 
 
 :root{
     --background-color: black;
     --border-color: black;
-}
 
+    --ans-button-color: rgb(236, 77, 3);
+    --button-color: black;
+    --button-color-text: aliceblue;
+
+    --invert-button-color: black;
+    --invert-button-color-text: aliceblue;
+}
+/* 
 @font-face {
     font-family: fz;
     src: url(/font/font.TTF);
-}
+} */
